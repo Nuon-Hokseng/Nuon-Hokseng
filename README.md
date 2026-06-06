@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi there 👋<br><br>I'm Hokseng, a Full-Stack Developer passionate about building web applications that solve real-world problems.<br><br>💻 I mainly work with Next.js, JavaScript, Node.js, and databases.<br>🚀 I enjoy creating scalable web applications, business management systems, and analytics dashboards.<br>📊 Recently, I helped transform an optical store's operations by replacing spreadsheet-based workflows with a web-based POS and customer management system.<br>🤖 I'm also a part-time Robotics Instructor, teaching students programming and STEM concepts through hands-on projects.<br>🌱 Always learning, building, and exploring new technologies.<br><br>Feel free to check out my projects or connect with me!<br>
+💫 About Me
+
+Hi, I'm Hokseng 👋
+
+💻 Full-Stack Developer focused on Next.js, JavaScript, Node.js, and databases.
+🚀 Building scalable web applications and business management systems.
+🤖 Robotics Instructor passionate about programming, STEM, and technology.
+🌱 Always learning and creating impactful solutions.
 
 
 ## 🌐 Socials:
