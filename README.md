@@ -2,10 +2,10 @@
 
 Hi, I'm Hokseng 👋
 
-💻 Full-Stack Developer focused on Next.js, JavaScript, Node.js, and databases.
-🚀 Building scalable web applications and business management systems.
-🤖 Robotics Instructor passionate about programming, STEM, and technology.
-🌱 Always learning and creating impactful solutions.
+💻 Full-Stack Developer focused on Next.js, JavaScript, Node.js, and databases.<br><br>
+🚀 Building scalable web applications and business management systems.<br><br>
+🤖 Robotics Instructor passionate about programming, STEM, and technology.<br><br>
+🌱 Always learning and creating impactful solutions.<br><br>
 
 
 ## 🌐 Socials:
